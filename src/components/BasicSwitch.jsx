@@ -1,4 +1,3 @@
-import { styled } from "@mui/system";
 import Switch from "@mui/material/Switch";
 
 const BasicSwitch = ({ ...label }) => (
