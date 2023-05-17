@@ -1,6 +1,4 @@
-# Installing and Running a Basic Template React Repo with npm
-
-In this tutorial, we'll walk through the steps to install and run a basic template React repository that you've cloned from GitHub. We'll be using npm (Node Package Manager) to manage our project's dependencies and scripts.
+# Installing and Running this repo
 
 ## Prerequisites
 
